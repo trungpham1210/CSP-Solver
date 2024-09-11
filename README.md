@@ -78,4 +78,9 @@ The output would be:
 - `ex1-fc.out`
 - `ex1-none.out`
 
+## Contributing
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
+## Contact
+For any questions or suggestions, please contact [dinhtrungpham125@gmail.com](mailto:dinhtrungpham125@gmail.com).
 ---
